@@ -1,4 +1,4 @@
 .env
 env/
 venv/
-rare_species 1/
+data/rare_species 1/
