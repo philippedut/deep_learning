@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 - **Benedikt Ruggaber** – 20240500 
 - **Daan Van Holten** – 2024002  
-- **Jose Cavaco** – 2024003  
+- **Jose Cavaco** – 20240513  
 - **Philippe Duntranoit** – 2024004  
 - **Joshua Wehr** – 20240501 
 
