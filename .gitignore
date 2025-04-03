@@ -2,3 +2,5 @@
 env/
 venv/
 data/rare_species 1/
+.DS_Store
+
